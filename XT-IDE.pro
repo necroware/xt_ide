@@ -1,4 +1,4 @@
-update=Thu 08 Jun 2017 04:30:51 PM EDT
+update=Thu 01 Apr 2021 17:13:42 CEST
 version=1
 last_client=kicad
 [common]
@@ -43,35 +43,4 @@ NetIExt=net
 EquName1=devcms
 [eeschema]
 version=1
-LibDir=C:/Users/Andrew/Desktop/System CD Updates/data/N8VEM-KiCAD
-[eeschema/libraries]
-LibName1=XT-IDE-rescue
-LibName2=power
-LibName3=device
-LibName4=transistors
-LibName5=conn
-LibName6=linear
-LibName7=regul
-LibName8=74xx
-LibName9=cmos4000
-LibName10=adc-dac
-LibName11=memory
-LibName12=xilinx
-LibName13=special
-LibName14=microcontrollers
-LibName15=dsp
-LibName16=microchip
-LibName17=analog_switches
-LibName18=motorola
-LibName19=texas
-LibName20=intel
-LibName21=audio
-LibName22=interface
-LibName23=digital-audio
-LibName24=philips
-LibName25=display
-LibName26=cypress
-LibName27=siliconi
-LibName28=contrib
-LibName29=valves
-LibName30=/home/glitch/Downloads/dips-s
+LibDir=
